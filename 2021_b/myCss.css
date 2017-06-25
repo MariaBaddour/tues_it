@@ -1,0 +1,27 @@
+
+
+
+footer { 
+       	background-color: lightgreen;
+        padding: 20px;
+}
+.carousel-inner img {
+       	 	width: 100%; 
+       		margin: auto;
+        	min-height: 100px;
+		media (max-width: 600px) 
+            	.carousel-caption {
+            		display: none;
+            		}
+        	}
+.navbar {
+		background-color:#ccb3ff;
+}
+#heading-0 {color: black}
+#heading-1 {color: red}
+#heading-2 {color: blue}
+#heading-3 {color: lightgreen}
+#image2 {color: green}
+.featurette-heading {color: anime blue}
+.text-muted {color: lightgreen}
+.btn-primary {background-color: lightpink}
