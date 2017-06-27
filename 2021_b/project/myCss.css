@@ -1,0 +1,27 @@
+
+
+
+footer { 
+       	background-color: lightblue;
+        padding: 20px;
+}
+.carousel-inner img {
+       	 	width: 100%; 
+       		margin: auto;
+        	min-height: 100px;
+		media (max-width: 600px) 
+            	.carousel-caption {
+            		display: none;
+            		}
+        	}
+.navbar {
+		background-color: darkblue;
+}
+#heading-0 {color: black}
+#heading-1 {color: red}
+#heading-2 {color: blue}
+#heading-3 {color: lightgreen}
+#image2 {color: green}
+.featurette-heading {color: darkblue}
+.text-muted {color: lightgreen}
+.btn-primary {background-color: blue}
